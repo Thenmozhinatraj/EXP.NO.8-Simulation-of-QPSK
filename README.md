@@ -134,16 +134,7 @@ plt.show()
 
 # RESULT / CONCLUSIONS
 1. The simulation of QPSK modulation and demodulation was successfully completed using Python.
-
-   
 2. Clear visualization of In-phase, Quadrature, and Combined QPSK waveforms was obtained.
-
-   
 3. The Bit Error Rate (BER) was found to be zero in noiseless conditions.
-
-   
 4. Thus, QPSK was verified to transmit two bits per symbol, effectively doubling the data transmission rate compared to BPSK.
-
-
 5. The experiment proved the efficiency and correctness of QPSK modulation under ideal conditions.
-   
