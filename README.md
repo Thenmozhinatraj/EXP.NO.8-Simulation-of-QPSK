@@ -129,7 +129,11 @@ plt.show()
 
 # OUTPUT
 ![Screenshot 2025-04-27 172728](https://github.com/user-attachments/assets/b9242b54-bc02-44c2-8cd5-3ec6933e2379)
+
 ![Screenshot 2025-04-27 172755](https://github.com/user-attachments/assets/70afa630-18c9-4623-84fd-00d14feea5cf)
+
+
+
 
 # RESULT / CONCLUSIONS
 1. The simulation of QPSK modulation and demodulation was successfully completed using Python.
